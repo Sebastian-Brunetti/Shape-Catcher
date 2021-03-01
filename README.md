@@ -1,2 +1,2 @@
 # Shape-Catcher
-"Shape Catcher" is a sample project developed in Unity.
+"Shape Catcher" is a sample project developed on Unity.
